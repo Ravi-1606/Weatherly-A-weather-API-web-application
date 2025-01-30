@@ -26,7 +26,7 @@ Check out the deployed application here: [Weatherly](https://weatherly-sable-phi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ravi-1606/Weatherly-A-weather-API-web-application
 
 2. Install dependencies:
    ```bash
@@ -34,7 +34,7 @@ Check out the deployed application here: [Weatherly](https://weatherly-sable-phi
    
 3. Start the development server:
     ```bash
-   npm run dec
+   npm run dev
 
 ---
 
