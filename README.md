@@ -1,8 +1,53 @@
-# React + Vite
+# Weatherly 🌤️  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive Weather API application built with **React + Vite** for the front end and **Node.js** for the backend. This app provides accurate and real-time weather data for any location worldwide.  
 
-Currently, two official plugins are available:
+## 🌐 Live Demo  
+Check out the deployed application here: [Weatherly](https://weatherly-sable-phi.vercel.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠️ Tech Stack  
+- **Frontend:** React + Vite  
+- **Backend:** Node.js  
+- **Styling:** Tailwind CSS (or any other library used, if applicable)  
+- **Deployment:** Vercel  
+
+---
+
+## 🚀 Features  
+- **Real-time Weather Data:** Get the current weather details like temperature, humidity, and more.  
+- **Location Search:** Find the weather of any city or location.  
+- **Responsive Design:** Works on desktops, tablets, and mobile devices.  
+
+---
+
+## 🏗️ Installation and Setup  
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+2. Install dependencies:
+   ```bash
+   npm install
+   
+3. Start the development server:
+    ```bash
+   npm run dec
+
+---
+
+## 🤝 Contributions
+Feel free to open issues and pull requests to improve this project.
+
+---
+
+## 📜 License
+This project is open-source and available under the MIT License.
+   
+
+
+
+
+
